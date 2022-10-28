@@ -33,6 +33,7 @@
   align-self: center;
   margin-left: 64px;
   max-width: 730px;
+  z-index: 2;
   /*text*/
   line-height: 96px;
   font-size: 102px;
@@ -45,6 +46,7 @@
   bottom: 30px;
   left: 64px;
   max-width: 388px;
+  z-index: 2;
   /*text*/
   line-height: 25px;
   font-size: 18px;
@@ -61,8 +63,8 @@
   right: 0;
   bottom: 0;
   height: 608px;
-  max-width: 765px;
-  object-fit: contain;
+  width: 765px;
+  object-fit: cover;
   z-index: 1;
 }
 
@@ -210,6 +212,7 @@
 }
 
 .feynman__subtitle {
+  margin: 0;
   margin-top: 70px;
   text-align: center;
   z-index: 1;
