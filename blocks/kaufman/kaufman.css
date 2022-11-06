@@ -1,0 +1,13 @@
+@import url(../section-title/_theme/section-title_theme_dark.css);
+@import url(../section-subtitle/_theme/section-subtitle_theme_dark.css);
+@import url(../table/table.css);
+@import url(../table/_theme/table_theme_dark.css);
+@import url(./__triangle/kaufman__triangle.css);
+@import url(../rotation/rotation.css);
+
+.kaufman {
+  background-color: #1f1f1f;
+  position: relative;
+  overflow: hidden;
+  padding: 90px 0;
+}

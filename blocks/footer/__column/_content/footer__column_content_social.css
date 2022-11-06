@@ -1,0 +1,7 @@
+.footer__column_content_social {
+    flex-direction: column;
+    justify-content: flex-start;
+    width: auto;
+    list-style-type: none;
+    padding: 0;
+  }
