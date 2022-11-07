@@ -6,7 +6,3 @@
   width: 568px;
   background-color: #2f80ed;
 }
-
-.rotation {
-  animation: rotation 20s linear infinite;
-}
